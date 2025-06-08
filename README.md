@@ -1,0 +1,2 @@
+# news-crawler
+一个通过新闻RSS爬取数据并自动查重与排除旧新闻放置在sqlite3数据库中的Python库
